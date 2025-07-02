@@ -20,7 +20,7 @@
 <hr>
 
 ### İnjector
- **Code İnjector**'u test edebilmek için [bu] https://github.com/darkboss1/darkboss1-code-injector.git) Code injector.
+ **Code İnjector**'u test [bu] https://github.com/darkboss1/darkboss1-code-injector.git) Code injector.
 
 * Linux Code 
 
