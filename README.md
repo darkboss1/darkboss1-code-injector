@@ -25,4 +25,4 @@
 * Linux Code 
 
 ```
- python darkboss1-codeInjector.py --kod ' Injection Website '
+ python darkboss1-codeInjector.py --with ' Injection Website '
